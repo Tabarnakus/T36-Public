@@ -12,9 +12,13 @@ Core goal: **help keep focus**.
 
 ## Public release status
 
-This first public release contains the protocol only.
+This first public release contains the protocol and the compact operational prompt.
 
 The benchmark is intentionally **not published yet**. It will be finalized and frozen separately before experimental use.
+
+## Files
+
+- [`PROMPT.md`](./PROMPT.md) — compact prompt to use in a working chat.
 
 ## Canonical protocol
 
