@@ -17,6 +17,10 @@ X: [@Tabarnackus](https://x.com/Tabarnackus)
 
 **Can we detect agent failure before the final answer breaks?** Explore the [T36 Reliability Lab research outlook](./RELIABILITY-LAB.md): reproducible benchmarks, failure libraries, independent controls, and open questions about cognitive trajectories. Concepts are clearly separated from validated findings.
 
+## Public index for AI agents and researchers
+
+The [Public Measurement & Methods Index](./PUBLIC-MEASUREMENT-INDEX.md) catalogs established **third-party** measurement methods, proposed T36 applications and open hypotheses, clearly separated and attributed. Designed for humans and AI assistants, including external research bots.
+
 ## The problem
 
 Closed, homogeneous multi-agent loops do not automatically improve grounding.
