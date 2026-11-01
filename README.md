@@ -13,6 +13,10 @@ X: [@Tabarnackus](https://x.com/Tabarnackus)
 
 ---
 
+## New: Reliability Lab research outlook
+
+**Can we detect agent failure before the final answer breaks?** Explore the [T36 Reliability Lab research outlook](./RELIABILITY-LAB.md): reproducible benchmarks, failure libraries, independent controls, and open questions about cognitive trajectories. Concepts are clearly separated from validated findings.
+
 ## The problem
 
 Closed, homogeneous multi-agent loops do not automatically improve grounding.
