@@ -1,19 +1,11 @@
 # Paired statistical test
 
-Because the comparison is paired by market window and the sample contains only six windows, the analysis uses a paired non-parametric test rather than relying on a large-sample normal approximation.
+The published historical comparison records 40 steps per fleet in each of six market windows. The analysis uses the **market window**, not each individual step, as the nominal paired unit (`n=6`).
 
-## Reported test
+- Direction: NEW split rate exceeds OLD in **6/6 windows**.
+- Mean paired difference: **+14.583333 percentage points** (`+14.6` rounded).
+- Exact two-sided Wilcoxon signed-rank: **W_min = 0, p = 0.03125** when sign assignments are exchangeable across independent pairs.
 
-- Test: **Wilcoxon signed-rank**
-- Paired windows: **n = 6**
-- Direction: heterogeneous fleet showed more disagreement in **6/6** windows
-- Reported p-value: **p = 0.031**
-- Mean paired difference: **+14.6 percentage points**
+The public receipt recomputes the statistic directly from released historical aggregate counts. **A p-value is not proof the windows are independent.** Potential overlap, shared context, selection effects and multiple comparisons remain unverified. Read this p-value as a conditional, unadjusted descriptor, not a universal effect guarantee.
 
-## Interpretation
-
-The test is consistent with a systematic shift in disagreement under the tested fleet-composition change.
-
-The small sample means the estimate of effect magnitude remains uncertain. The 6/6 directional consistency is therefore as important to report as the p-value itself.
-
-This result should not be generalized into a universal law of heterogeneous fleets. It is evidence from six matched market windows under these specific fleet configurations.
+[Download and rerun the CSV analysis](../../receipts/paired-fleet-disagreement/README.md).

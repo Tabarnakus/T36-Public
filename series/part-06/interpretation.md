@@ -1,21 +1,9 @@
 # Interpretation
 
-The Part 6 result is easiest to misunderstand if disagreement is treated as inherently beneficial.
+The source-backed contrast is **OLD versus NEW fleet composition**, not controlled homogeneous versus heterogeneous membership. Both historical three-model rosters contain multiple model families.
 
-The heterogeneous fleet disagrees more. That is a change in **deliberative form**. It does not automatically follow that the fleet has acquired more information about the external market outcome.
+In the matched six-window split-rate comparison, NEW shows more native disagreement. Separately, in reported outcome cohorts of different sample sizes, consensus-following remains below 50% across H=1, H=3 and H=5 for each roster.
 
-The observed data are consistent with a simpler possibility: fleet composition changes how agents explore, challenge, or distribute positions without increasing the amount of externally useful signal available to the consensus.
+The evidence does **not** identify why these outcomes arise. Candidate explanations include weak market signal, model capability differences, correlated priors, aggregation failure and measurement limitations. Nor does it establish equal performance, failure versus random guessing at a specified statistical confidence, or a causal effect of pure heterogeneity.
 
-## What the result supports
-
-Within the tested market-grounded setting:
-
-- changing fleet composition changes internal deliberative structure;
-- consensus-following accuracy remains at or below chance for both fleets at H = 1, 3, and 5;
-- therefore the observed improvement in structural diversity is not accompanied by improved consensus validity.
-
-## What remains open
-
-This result does not determine why consensus-following remains at chance. Possible explanations include weak task signal, correlated priors, insufficiently informative interaction, aggregation failure, domain-specific noise, or instrumentation that misses a useful variable.
-
-The null in validity should therefore not be turned into a stronger mechanistic claim than the experiment supports.
+The narrow, useful conclusion is: **changes in recorded deliberation structure should not be assumed to improve externally adjudicated results.**
