@@ -49,7 +49,7 @@ Read the [doctrine](./DOCTRINE.md), [research references](./RESEARCH-REFERENCES.
 
 [Gladi~US~](./gladius/README.md) is an adaptive human-AI collaboration workflow. The [Reliability Lab](./RELIABILITY-LAB.md) describes future engineering directions; it is not a shipped validation result.
 
-**Timeline:** [September 6, 2026: first public doctrine](./CHANGELOG.md) · September 9: Parts 1–7 · September 12: Part 8 and Gladi~US~ · November 1: methods and research outlook · November 2: aggregate receipt and navigation. See the [dated changelog](./CHANGELOG.md).
+**Research timeline:** [September–November 2026 milestones](./CHANGELOG.md).
 
 The operational runtime, private prompts, raw response logs and credentials remain private.
 
