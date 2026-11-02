@@ -55,7 +55,7 @@ Read [the expanded doctrine](./DOCTRINE.md), [glossary](./GLOSSARY.md) and [rese
 - **September 9, 2026:** Parts 1–7 added as research/evidence packets.
 - **September 12, 2026:** Part 8 null-result documentation and Gladi~US~ v1.1.
 - **November 1, 2026:** Reliability Lab research outlook and public methods index.
-- **November 2, 2026:** Draft evidence-receipt revision prepared for review (not yet merged).
+- **November 2, 2026:** Receipt 01 aggregate reanalysis, series navigation and documentation revisions.
 
 See [the changelog](./CHANGELOG.md) for dated repository milestones.
 
