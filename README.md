@@ -55,6 +55,7 @@ Read [the expanded doctrine](./DOCTRINE.md), [glossary](./GLOSSARY.md) and [rese
 - **September 9, 2026:** Parts 1–7 added as research/evidence packets.
 - **September 12, 2026:** Part 8 null-result documentation and Gladi~US~ v1.1.
 - **November 1, 2026:** Reliability Lab research outlook and public methods index.
+- **November 2, 2026:** Draft evidence-receipt revision prepared for review (not yet merged).
 
 See [the changelog](./CHANGELOG.md) for dated repository milestones.
 
@@ -62,6 +63,6 @@ See [the changelog](./CHANGELOG.md) for dated repository milestones.
 
 Private orchestration, unpublished raw agent traces, credentials, internal bot configurations and operational thresholds stay private. A public receipt's missing raw records are disclosed rather than silently replaced. Publishing aggregate statistics does not establish independent reproduction of the original experiment.
 
-X: [@Tabarnackus](https://x.com/Tabarnackus) (**handle spelling retained as currently listed; account ownership not independently confirmed**).
+X: [@Tabarnackus](https://x.com/Tabarnackus).
 
 Copyright © 2026 Richard Bélisle (Tabarnakus). See [LICENSE](./LICENSE) and [NOTICE.md](./NOTICE.md).
