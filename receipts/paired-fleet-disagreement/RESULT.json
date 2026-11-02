@@ -1,0 +1,41 @@
+{
+  "source_level": "sanitized experimental aggregates; original logs private/not independently replicated",
+  "n_pairs": 6,
+  "steps_per_condition": [
+    40,
+    40,
+    40,
+    40,
+    40,
+    40
+  ],
+  "old_split_counts": [
+    14,
+    18,
+    14,
+    12,
+    21,
+    19
+  ],
+  "new_split_counts": [
+    24,
+    19,
+    18,
+    24,
+    23,
+    25
+  ],
+  "delta_percentage_points": [
+    25.0,
+    2.5,
+    10.0,
+    30.0,
+    5.0,
+    15.0
+  ],
+  "new_higher_pairs": 6,
+  "mean_paired_delta_percentage_points": 14.583333,
+  "wilcoxon_W_min": 0.0,
+  "wilcoxon_exact_two_sided_p": 0.03125,
+  "interpretation": "Descriptive paired shift in recorded disagreement; no universal causal or truth claim"
+}

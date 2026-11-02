@@ -1,24 +1,15 @@
 # X Series — Part 5: Change the Fleet
 
-Part 4 left two explanations open: perhaps the tested homogeneous fleet could not access the relevant deliberative structure, or perhaps the synthetic calibration simply did not transfer.
+Part 5 compares **two recorded three-model fleet compositions**, historically named `OLD` and `NEW`, under six matched market windows. Both historical rosters contain models from multiple families. This experiment is **not a clean homogeneous-versus-heterogeneous intervention**.
 
-Part 5 changes one thing that can be changed directly: **fleet composition**.
-
-The public question is deliberately narrow:
-
-> If the same market windows are replayed with a different fleet composition, does the native rate of disagreement change?
+> Under the matched-window replay, does native directional disagreement change when the tested fleet composition changes?
 
 ## Public evidence map
 
-- [`replay-design.md`](./replay-design.md) — bidirectional same-window replay design.
-- [`disagreement-result.md`](./disagreement-result.md) — six paired windows, 6/6 in the same direction, mean +14.6 percentage points.
-- [`statistics.md`](./statistics.md) — paired non-parametric test and interpretation.
-- [`claim-boundary.md`](./claim-boundary.md) — what can and cannot be attributed to fleet composition.
+- [Replay design](./replay-design.md): paired market windows, what was held constant and what was not.
+- [Disagreement result](./disagreement-result.md): NEW > OLD on **6/6 windows**, mean **+14.6 percentage points**.
+- [Paired statistics](./statistics.md): exact Wilcoxon p = 0.03125 and dependence caveats.
+- [Claim boundary](./claim-boundary.md): what this comparison can and cannot establish.
+- [Receipt 01](../../receipts/paired-fleet-disagreement/README.md): sanitized aggregate CSV and executable statistical reanalysis.
 
-## Reading rule
-
-The experiment tests **deliberative form**, not truth.
-
-Holding the market window fixed reduces one major source of confounding, but the two fleets still differ in lineage, vendor, and capability profile. The causal claim is therefore bounded to the tested fleet compositions under held-constant market conditions.
-
-Part 6 asks a different question and is intentionally not disclosed here.
+**Reading rule:** the comparison measures *deliberative form*, not predictive accuracy. Pairing on market window does not make model capability, vendor route, lineage or window independence identical. The original agent-event logs have not been publicly released or independently reconstructed.

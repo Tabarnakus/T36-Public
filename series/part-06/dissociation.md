@@ -1,22 +1,9 @@
 # Form–validity dissociation
 
-Part 5 established that fleet composition changes native disagreement under a matched replay design.
+Part 5 reports an OLD/NEW fleet-composition change associated with a six-window shift in native directional disagreement.
 
-Part 6 tests whether that change in deliberative form is accompanied by improved external validity.
+Part 6 reports separate aggregate outcomes: the OLD and NEW cohorts have consensus-following accuracies below 50% at H=1, H=3 and H=5.
 
-It is not.
+This is an **observed dissociation in the reported datasets**: a difference in deliberative form is not evidence of greater external validity.
 
-Across both fleets and all three adjudication horizons, consensus-following remains at or below chance.
-
-This creates a dissociation:
-
-- **Deliberative form is fleet-sensitive.** The tested fleets produce measurably different internal structure.
-- **External validity does not improve with that change.** The more structurally diverse fleet does not yield better consensus-following accuracy.
-
-The point is not that internal dynamics are meaningless. They are measurable, reproducible, and experimentally manipulable.
-
-The point is narrower and more important:
-
-> A change in deliberative geometry does not, by itself, imply a gain in external correctness.
-
-That is the empirical separation between form and validity documented here.
+It is **not** a matched six-window causal estimate of outcome improvement, nor a demonstration that one roster has inherently better or worse information. Changing the shape of the conversation does not establish the truth of the consensus.
