@@ -1,6 +1,6 @@
 # T36 Doctrine: principles, checks and limits
 
-Status: proposed public documentation revision, pending review. Audience: researchers and engineers. **Not a complete runtime specification.**
+Scope: public research doctrine and methods for researchers and engineers. **Not a complete runtime specification.**
 
 ## What counts as evidence
 
