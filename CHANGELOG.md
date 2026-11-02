@@ -2,14 +2,14 @@
 
 The version labels below describe **public repository documentation**, not production-runtime releases. Individual commits remain the canonical record.
 
-## Evidence and discoverability hardening (date/version tracked by Git commit)
+## 2026-11-02 — Evidence and discoverability hardening
 
 - Added a README with direct, concise links to all eight research parts and their bounded outcomes.
-- Added a numbered research-series index and prominently links the aggregate receipt.
+- Added a numbered research-series index linking the aggregate receipt.
 - Aggregate reanalysis receipt: **six historical aggregate windows**, offline Python reanalysis, tests and explicit source-data limitations.
-- Removed the unsupported universal `~6 agents` risk-peak claim and explain terminology in a glossary.
+- Removed the unsupported universal `~6 agents` risk-peak claim and explained terminology in a glossary.
 - Explained why Part 3's `n=32` summary **cannot** be re-bootstrapped without its case-level measurements.
-- Kept the X handle unchanged pending ownership confirmation.
+- Retained the previously listed X handle without altering its spelling.
 - Corrected the unsupported homogeneous/heterogeneous shorthand for the Part 5 OLD/NEW roster contrast and corresponding Part 6 labels.
 - No private runtime or raw agent logs included.
 
